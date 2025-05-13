@@ -1,0 +1,15 @@
+{
+  "name": "multi-region-failover-aws",
+  "version": "1.0.0",
+  "description": "A multi-region failover setup using AWS EC2, Route 53, and Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
